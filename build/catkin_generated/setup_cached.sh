@@ -11,5 +11,6 @@ export CMAKE_PREFIX_PATH="/home/jenny/test/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/jenny/test/devel/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/jenny/test/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/jenny/test/build'
+export PYTHONPATH="/home/jenny/test/devel/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES='/home/jenny/test/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/jenny/test/src:$ROS_PACKAGE_PATH"
