@@ -1,10 +1,7 @@
 #!/usr/bin/env python
-
-print("帳號:iclab_xiao_ming666")
-p=input("密碼:")
+print("account:iclab_xiao_ming666")
+p = input("password:")
 if p == "aa":
-	print("歡迎！使用者iclab_xiao_ming666")
+	print("Welcome!user iclab_xiao_ming666")
 else:
-	print("密碼或帳號有誤,請重試")
-
-
+	print("password or account is wrong,please try again")
